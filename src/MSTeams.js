@@ -178,7 +178,7 @@ class MSTeams {
 					"@type": "OpenUri",
 					name: "GitHub Actions",
 					targets: [
-						{ os: "default", uri: workflow_link }
+						{ os: "default", uri: compare }
 					]
 				}
 			]
