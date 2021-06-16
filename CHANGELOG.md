@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.1.0...v1.2.0) (2021-06-16)
+
+
+### Features
+
+* add github action url ([8ed2d24](https://github.com/signcl/notify-microsoft-teams/commit/8ed2d242e720a021cb758dc5c80dd77ebc020ca2))
+
 # [1.1.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.0.4...v1.1.0) (2021-06-16)
 
 
