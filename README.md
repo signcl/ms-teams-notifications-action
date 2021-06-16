@@ -1,5 +1,5 @@
 # Notify Microsoft Teams
-![CI](https://github.com/Skitionek/notify-microsoft-teams/workflows/CI/badge.svg)
+![CI](https://github.com/signcl/notify-microsoft-teams/workflows/CI/badge.svg)
 ![GitHub](https://img.shields.io/github/license/homoluctus/slatify?color=brightgreen)
 
 Teams notify action inspired by [git:homoluctus/slatify](https://github.com/homoluctus/slatify) (for Slack).
