@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.0.4...v1.1.0) (2021-06-16)
+
+
+### Bug Fixes
+
+* **ci:** node version too old for semantic-release new syntax ([73a6f5d](https://github.com/signcl/notify-microsoft-teams/commit/73a6f5deca2807173d6e2fc74ce846d584781946))
+
+
+### Features
+
+* update deps and rebrand ([3881fa1](https://github.com/signcl/notify-microsoft-teams/commit/3881fa19b1fcc9034582249fec1535e78056c0b5))
+
 ## [1.0.4](https://github.com/Skitionek/notify-microsoft-teams/compare/v1.0.3...v1.0.4) (2020-04-24)
 
 
