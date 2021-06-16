@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/signcl/gh-actions-ms-teams-notifications/compare/v1.5.0...v1.6.0) (2021-06-16)
+
+
+### Features
+
+* refine default title ([496d492](https://github.com/signcl/gh-actions-ms-teams-notifications/commit/496d4924b39b1df00c8a09cf046641d06a8fcca7))
+
 # [1.5.0](https://github.com/signcl/gh-actions-ms-teams-notifications/compare/v1.4.0...v1.5.0) (2021-06-16)
 
 
