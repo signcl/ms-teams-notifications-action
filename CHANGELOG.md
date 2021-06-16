@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/signcl/gh-actions-ms-teams-notifications/compare/v1.3.0...v1.4.0) (2021-06-16)
+
+
+### Features
+
+* rebrand for marketplace release ([c7ef5e0](https://github.com/signcl/gh-actions-ms-teams-notifications/commit/c7ef5e05ec55684f558ff002777a49990114231c))
+
 # [1.3.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.2.0...v1.3.0) (2021-06-16)
 
 
