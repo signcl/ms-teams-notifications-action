@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/signcl/gh-actions-ms-teams-notifications/compare/v1.4.0...v1.5.0) (2021-06-16)
+
+
+### Features
+
+* use `workflow_uri` for action button ([5c4fcf2](https://github.com/signcl/gh-actions-ms-teams-notifications/commit/5c4fcf23aaa6e0f961254bcb9e1d5d1f887456a4))
+
 # [1.4.0](https://github.com/signcl/gh-actions-ms-teams-notifications/compare/v1.3.0...v1.4.0) (2021-06-16)
 
 
