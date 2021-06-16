@@ -11983,8 +11983,6 @@ const {
 	sha
 } = github;
 
-console.log(github);
-
 const statuses = [
 	{
 		id: 'success',
@@ -12043,6 +12041,7 @@ function Status(status) {
 	return r
 }
 
+const repo_uri = repository.html_url.replace('https://github.com/', '');
 const workflow_uri = `${repository.html_url}/actions?query=workflow%3A${workflow}`;
 const workflow_link = `[${workflow}](${workflow_uri})`;
 const payload_link = `[${eventName}](${compare})`;
@@ -12119,7 +12118,7 @@ class MSTeams {
 			...this.header,
 			correlationId: sha,
 			themeColor: color,
-			title: `${sender.login} ${eventName} initialized workflow "${workflow}"`,
+			title: `${sender.login} ${eventName} workflow "${workflow}" on ${repo_uri}`,
 			summary: repository_link,
 			sections,
 			potentialAction: [
