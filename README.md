@@ -1,5 +1,5 @@
 # Notify Microsoft Teams
-![CI](https://github.com/signcl/notify-microsoft-teams/workflows/CI/badge.svg)
+![CI](https://github.com/signcl/gh-actions-ms-teams-notifications/workflows/CI/badge.svg)
 ![GitHub](https://img.shields.io/github/license/homoluctus/slatify?color=brightgreen)
 
 Teams notify action inspired by [git:homoluctus/slatify](https://github.com/homoluctus/slatify) (for Slack).
@@ -57,7 +57,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Microsoft Teams Notification
-        uses: skitionek/notify-microsoft-teams@master
+        uses: signcl/gh-actions-ms-teams-notifications@master
         if: always()
         with:
           webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
@@ -73,7 +73,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Microsoft Teams Notification
-        uses: skitionek/notify-microsoft-teams@master
+        uses: signcl/gh-actions-ms-teams-notifications@master
         if: always()
         with:
           webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
@@ -84,7 +84,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Microsoft Teams Notification
-        uses: skitionek/notify-microsoft-teams@master
+        uses: signcl/gh-actions-ms-teams-notifications@master
         if: always()
         with:
           webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
@@ -96,7 +96,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Microsoft Teams Notification
-        uses: skitionek/notify-microsoft-teams@master
+        uses: signcl/gh-actions-ms-teams-notifications@master
         if: always()
         with:
           webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}
@@ -113,7 +113,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Microsoft Teams Notification
-        uses: skitionek/notify-microsoft-teams@master
+        uses: signcl/gh-actions-ms-teams-notifications@master
         if: failure()
         with:
           webhook_url: ${{ secrets.MSTEAMS_WEBHOOK }}

@@ -1,5 +1,5 @@
 {
-  "name": "@signcl/notify-microsoft-teams",
+  "name": "@signcl/gh-actions-ms-teams-notifications",
   "version": "v1.0.0",
   "description": "Microsoft Teams Notification for Github Actions",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signcl/notify-microsoft-teams.git"
+    "url": "git+https://github.com/signcl/gh-actions-ms-teams-notifications.git"
   },
   "keywords": [
     "GitHub",
@@ -24,9 +24,9 @@
   "author": "GitHub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/signcl/notify-microsoft-teams/issues"
+    "url": "https://github.com/signcl/gh-actions-ms-teams-notifications/issues"
   },
-  "homepage": "https://github.com/signcl/notify-microsoft-teams#readme",
+  "homepage": "https://github.com/signcl/gh-actions-ms-teams-notifications#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@octokit/rest": "^18.6.0",
