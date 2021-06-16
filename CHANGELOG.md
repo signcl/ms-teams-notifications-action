@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.2.0...v1.3.0) (2021-06-16)
+
+
+### Features
+
+* migrate to husky v5 ([29b1345](https://github.com/signcl/notify-microsoft-teams/commit/29b134567db91209a7526aabe9bc5d8fa44b0e1d))
+
 # [1.2.0](https://github.com/signcl/notify-microsoft-teams/compare/v1.1.0...v1.2.0) (2021-06-16)
 
 
