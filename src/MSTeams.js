@@ -23,6 +23,8 @@ const {
 	sha
 } = github;
 
+console.log(github);
+
 const statuses = [
 	{
 		id: 'success',
